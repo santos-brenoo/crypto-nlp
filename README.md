@@ -1,4 +1,4 @@
-# Analysis Bitcoin with NLP
+# Bitcoin Analysis with NLP
 
 The project aims to explore the correlation between sentiment analysis of Reddit posts and fluctuations in Bitcoin prices. This involves analyzing the sentiment expressed in discussions on the Reddit platform to understand how it aligns with the dynamic changes in the value of Bitcoin.
 
